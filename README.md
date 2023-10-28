@@ -1,9 +1,9 @@
-#ERPNext Biometric Attendance
+# ERPNext Biometric Attendance
 
-##ABOUT:
+## ABOUT:
 This program is for configuration ERPNext with ZKT Fingerprint Attendance and it's completely open source and free to use...
 
-##Requirements:
+## Requirements:
 1- python Version 3.9.X or higher.
 2- run CMD as administrator and follow  this commend:
   pip install requests
@@ -11,4 +11,4 @@ This program is for configuration ERPNext with ZKT Fingerprint Attendance and it
   pip install pyzk
   pip install PyQt5
 
-  ##Enjoy
+  ## Enjoy
