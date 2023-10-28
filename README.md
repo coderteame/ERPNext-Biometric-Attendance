@@ -29,7 +29,7 @@ pip install PyQt5
 4- press on "Set Configuration".<br>
 5- run "Start Service" and the process will start on the background.<br>
 6- run Running Status to check from process status.<br>
-
+7- make shortcut for "ERPNextBA.exe" to desktop and use it pull fingerprints to the system.<br>
 
 ## NOTES
 the process maybe dally if you have big data on your Fingerprint Attendance.
