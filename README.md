@@ -27,7 +27,7 @@ pip install PyQt5
 5- run "Start Service" and the process will start on the background.<br>
 6- run Running Status to check from process status.<br>
 
-## PS
+## NOTES
 the process maybe dally if you have big data on your Fingerprint Attendance.
 
 ## Enjoy^_^
