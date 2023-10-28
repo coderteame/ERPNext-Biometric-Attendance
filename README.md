@@ -3,13 +3,13 @@
 ## ABOUT:
 This program is for configuration ERPNext with ZKT Fingerprint Attendance and it's completely open source and free to use.
 
-## Requirements:
-1- python Version 3.9.X or higher.
+## Pre-requisites:
+1- python Version 3.6.X or higher.
 2- run CMD as administrator and follow  this commend:
-  pip install requests
-  pip install pickledb
-  pip install pyzk
-  pip install PyQt5
+[![Copy to Clipboard](https://img.shields.io/badge/Copy%20to%20Clipboard-Copy-blue?style=flat-square&logo=clipboard)](data:text/plain;charset=utf-8,Your%20pip install requests%20here)
+[![Copy to Clipboard](https://img.shields.io/badge/Copy%20to%20Clipboard-Copy-blue?style=flat-square&logo=clipboard)](data:text/plain;charset=utf-8,Your%20pip install pickledb%20here)
+[![Copy to Clipboard](https://img.shields.io/badge/Copy%20to%20Clipboard-Copy-blue?style=flat-square&logo=clipboard)](data:text/plain;charset=utf-8,Your%20pip install pyzk%20here)
+[![Copy to Clipboard](https://img.shields.io/badge/Copy%20to%20Clipboard-Copy-blue?style=flat-square&logo=clipboard)](data:text/plain;charset=utf-8,Your%20pip install PyQt5%20here)
 
 ## HOW TO USE
 1- create file on C:\ and rename to "ERPNextBA".
