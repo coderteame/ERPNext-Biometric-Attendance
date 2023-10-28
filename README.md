@@ -22,4 +22,4 @@ This program is for configuration ERPNext with ZKT Fingerprint Attendance and it
 ## PS
 the process maybe dally if you have big data on your Fingerprint Attendance.
 
-## Enjoy
+## Enjoy^_^
