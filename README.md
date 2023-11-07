@@ -23,8 +23,8 @@ pip install PyQt5
 
 
 ## HOW TO USE
-1- create file on C:\ and rename to "ERPNextBA".<br>
-2- copy the files to "ERPNextBA".<br>
+1- create folder on C:\ and rename to "ERPNextBA".<br>
+2- copy the files to "ERPNextBA" directory.<br>
 3- run "ERPNextBA_Config.exe" and add your configuration.<br>
 4- press on "Set Configuration".<br>
 5- run "Start Service" and the process will start on the background.<br>
